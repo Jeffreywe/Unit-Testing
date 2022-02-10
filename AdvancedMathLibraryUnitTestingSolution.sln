@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedMathLibraryUnitTesting", "AdvancedMathLibraryUnitTesting\AdvancedMathLibraryUnitTesting.csproj", "{0CE2A069-59D6-45CB-B6CE-9421632622C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAdvancedMathLibrary", "TestAdvancedMathLibrary\TestAdvancedMathLibrary.csproj", "{F4101A4B-8CC9-4732-A651-067DA45172C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE2A069-59D6-45CB-B6CE-9421632622C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE2A069-59D6-45CB-B6CE-9421632622C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE2A069-59D6-45CB-B6CE-9421632622C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE2A069-59D6-45CB-B6CE-9421632622C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4101A4B-8CC9-4732-A651-067DA45172C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4101A4B-8CC9-4732-A651-067DA45172C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4101A4B-8CC9-4732-A651-067DA45172C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4101A4B-8CC9-4732-A651-067DA45172C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A1B924E-AAB4-47E1-8B20-7D90F79147A5}
+	EndGlobalSection
+EndGlobal
